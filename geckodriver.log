@@ -1,0 +1,72 @@
+1655302787492	geckodriver	INFO	Listening on 127.0.0.1:53637
+1655302788688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNkvqpJ"
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1655302790529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNkvqpJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42459/devtools/browser/441eb6f6-793a-46f1-a5b6-089d9b123a23
+1655302798147	Marionette	INFO	Listening on port 38717
+Read port: 38717
+1655302798351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655302812662	Marionette	INFO	Stopped listening on port 38717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655302840645	geckodriver	INFO	Listening on 127.0.0.1:52659
+1655302840709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTmZIcg"
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1655302841593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTmZIcg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42465/devtools/browser/87867ec2-86de-4e61-8e7c-ac7ebfe6a39f
+1655302848868	Marionette	INFO	Listening on port 36333
+Read port: 36333
+1655302848939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1655302908969	Marionette	INFO	Stopped listening on port 36333
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655303134535	geckodriver	INFO	Listening on 127.0.0.1:42591
+1655303134596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYoia3S"
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1655303135563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYoia3S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49375/devtools/browser/dea4ac60-d926-4f83-b563-8a04ce4f1fa5
+1655303140420	Marionette	INFO	Listening on port 44711
+Read port: 44711
+1655303140542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655303154501	Marionette	INFO	Stopped listening on port 44711
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655303275923	geckodriver	INFO	Listening on 127.0.0.1:59817
+1655303275988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJdqBXE"
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1655303276876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJdqBXE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50453/devtools/browser/5a745edd-fa5c-4ccf-8e5c-c5f2b6778741
+1655303282574	Marionette	INFO	Listening on port 41157
+Read port: 41157
+1655303282619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1655303295584	Marionette	INFO	Stopped listening on port 41157
+1655303321386	geckodriver	INFO	Listening on 127.0.0.1:46269
+1655303321445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledTtjCB"
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1655303322283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledTtjCB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60225/devtools/browser/0b45aec3-f9d3-48b5-8e6f-e7fb11c1d704
+1655303329341	Marionette	INFO	Listening on port 45845
+Read port: 45845
+1655303329403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655303348234	Marionette	INFO	Stopped listening on port 45845
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
